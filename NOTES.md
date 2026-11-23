@@ -46,3 +46,7 @@ The coin loses on intrigue as well. The nick toward the water is a still picture
 The seed packet is the close one. It also opens forward: an unknown bean, a polite distance of a palm, a stick finished so it will not catch a hand, a sprout still ahead. The dairy book is more alert. Someone has already spoken, in six words, and the stem is damp now, not next week. That is the first difference, on intrigue. Craft is close between them. The packet does not pull ahead far enough on linger or freshness to overturn it.
 
 Winner: the dairy book. 278 code points.
+
+## Final
+
+The extra cane, one past the last of hers. A bean leaf is still folded, dry grit lies in the crease, and the last line is her knot with the short end tucked. The dairy book's water was a reveal in the middle, and the plate on the rack put someone inside the house. Here the leaf has not opened yet, and nothing in the picture tightens.

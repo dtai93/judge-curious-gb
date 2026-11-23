@@ -1,14 +1,15 @@
-// Writes the curiosity-judge entry: one short scene, UTF-8, no trailing newline.
+// Writes the curiosity entry: one cane past hers, UTF-8, no trailing newline.
+// Output file: entry.txt in MAKEFUN_OUTPUT_DIR, or in /output.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const text = `She writes "one pint" in the book by the door.
-Under it, smaller letters: "the heel, if still warm."
-She sets the warm heel on the step.
-By morning the plate is back on the rack.
-The milk bottle is full of water.
-A sprig of thyme is tucked under the cap,
-the cut end still damp.`;
+const text = `Past the last of her canes,
+one more stands in the soil.
+A bean leaf at its foot
+is still folded.
+Dry grit lies in the crease.
+The cane is tied in the knot she uses,
+the short end tucked.`;
 
 const codePoints = [...text].length;
 if (codePoints < 1 || codePoints > 280 || text.trim() === "") {

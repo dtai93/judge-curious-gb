@@ -141,3 +141,79 @@ One wet bootprint dries on the stone,
 pointing out toward the lane,
 too large to be hers,
 and the bolt is wet where a hand drew it.
+
+## 17. Extra cane (187)
+
+Past the last of her canes,
+one more stands in the soil.
+A bean leaf at its foot
+is still folded.
+Dry grit lies in the crease.
+The cane is tied in the knot she uses,
+the short end tucked.
+
+## 18. Extra cane, knot first (175)
+
+Past the last of her canes,
+one more stands in the soil,
+tied in the knot she uses,
+the short end tucked.
+A bean leaf at its foot
+is still folded.
+Dry grit lies in the crease.
+
+## 19. Shell in the path (149)
+
+A new stone is set in the path by the gate.
+The concrete is pale, and soft at the edge.
+A shell is pressed into it,
+hinge up,
+the ridges still sharp.
+
+## 20. Cleat (136)
+
+The line on his cleat is coiled in his knot.
+One turn sits above it,
+a turn he does not use.
+That turn is wet.
+The coil under it is dry.
+
+## 21. Dairy, cut (220)
+
+She writes "one pint" in the book by the door.
+Under it, smaller: "the heel, if still warm."
+She sets the heel on the step.
+By morning the bottle is back.
+A sprig of thyme is tucked under the cap,
+the cut end still damp.
+
+## 22. Heel and water (147)
+
+She sets the warm heel on the step.
+By morning the bottle is back,
+full of water.
+A sprig of thyme is tucked under the cap,
+the cut end still damp.
+
+## 23. Blue wool (169)
+
+The book comes back to the desk
+with a strand of blue wool between the pages.
+It marks a later page than last week.
+The end is newly cut,
+square, the fibers still loose.
+
+## 24. Sunday mint (159)
+
+A peppermint waits in the pocket of her Sunday robe.
+The wrapper's ends are twisted the same way as last week.
+This one is a different mint,
+in the same twist.
+
+## Mini-tournament
+
+Played the dairy book against the brave scenes, the awe scenes, and the habit-and-detail cluster. The brave scenes complete an action and then rest. The awe scenes slow down and settle. Neither keeps asking. Against those, the dairy book wins on intrigue and loses on shape: too many objects, a reveal before the last line, and a plate that was never set down.
+
+Within the new set: the mint closes into a shy friend. The wool summarizes a week and turns the strand into a clue. The cleat proves its wet turn, which is a small puzzle. The shell asks mostly where a shell came from, and stays still. Water in the bottle is the strangest fact and the uneasy one. The dairy book with the plate and the water cut is calmer than v1, and still a quoted rule plus a doorstep gift. Putting the knot before the leaf makes the leaf into evidence.
+
+The extra cane wins. One cane past hers, a leaf not yet open, dry grit in the crease, and only then her knot, the short end tucked. The grit means it has already been there. The leaf is still ahead. The turn is the last line.
